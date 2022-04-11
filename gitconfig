@@ -53,5 +53,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = gh api j.detoffoli@orange.fr
-	name = JÃerome De Toffoli j.detoffoli@orange.fr
+	email = j.detoffoli@orange.fr
+	name = Jerome De Toffoli j.detoffoli@orange.fr
